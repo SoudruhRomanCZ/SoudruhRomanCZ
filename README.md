@@ -5,3 +5,5 @@
 - 💞️ I’m looking to collaborate on interesting projects using python or PCBs.
 - 📫 How to reach me DC: SoudruhRoman#0174
 
+-Interesting projects:
+  -[Firesport stopwatch](https://github.com/SoudruhRomanCZ/FireSport_Stopwatch-Wireless)
